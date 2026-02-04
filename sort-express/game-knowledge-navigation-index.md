@@ -24,13 +24,38 @@ sort-express/
 
 ## Files
 
-| File | Description |
-|------|-------------|
-| `game-knowledge-navigation-index.md` | This file - navigation overview |
-| `production-rules.md` | Hard constraints causing rejection if violated |
-| `preferences.md` | Soft guidance improving quality |
-| `rejected-patterns.md` | Failed patterns with reasons to avoid |
-| `ideation-requirements.md` | Exploration criteria and concept development |
+| File | Description | Status |
+|------|-------------|--------|
+| `game-knowledge-navigation-index.md` | This file - navigation overview | ✓ Active |
+| `production-rules.md` | Hard constraints causing rejection if violated | ✓ Populated |
+| `preferences.md` | Soft guidance improving quality | ✓ Populated |
+| `rejected-patterns.md` | Failed patterns with reasons to avoid | ✓ Populated |
+| `ideation-requirements.md` | Exploration criteria and concept development | ✓ Populated |
+
+### Knowledge Coverage
+
+**Production Rules** (Hard Constraints)
+- Visual quality standards (high-quality, 3D polished, proportional design)
+- Core match-3 gameplay mechanics
+- Mandatory ad elements (close-up views, dynamic elements)
+- Camera and art direction requirements
+
+**Preferences** (Soft Guidance)
+- Creative approach (classic + unique combination)
+- AI asset generation guidelines
+- Top performing ad references (#99, #46, #109, #87)
+- Target audience considerations (90% women, 35+)
+
+**Rejected Patterns** (Lessons Learned)
+- Restaurant/BBQ theme (tested poorly)
+- Past ideations to vary (closet/shoes, supermarket, laundry, dish sorting)
+- Visual quality issues to avoid
+
+**Ideation Requirements** (Exploration Criteria)
+- Game overview (3D Match/Goods Sorting puzzle)
+- High exploration level encouraged
+- Theme development strategy
+- Competitive differentiation from Goods Sorting genre
 
 ---
 
