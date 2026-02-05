@@ -1,58 +1,98 @@
-# Sort Express — Preferences
+# Preferences
 
-> **Purpose:** Soft guidance improving quality.
-> **Last Updated:** 2026-02-04
-
-Design preferences and quality guidance for Sort Express. These are recommendations to enhance the game's appeal and performance.
+Creative preferences for Sort Express playable ads.
 
 ---
 
-## Creative Approach
+## Use diverse concept variety for themes
 
-**Classic + Unique Combination**
-- Partner wants to see both unique ideation AND classic gameplay with theme
-- Balance innovation with familiar mechanics
+**Ads SHOULD explore diverse thematic settings like shoe closets, dishwashers, kitchen cabinets, toy boxes, and various backgrounds.**
 
-**Concept Variety Encouraged**
-- Use diverse themes such as shoe closets, dishwashers, and various backgrounds
-- High exploration level encouraged
+Theme variety examples:
+- Shoe closet organization
+- Dishwasher loading (Ad #46 best example)
+- Kitchen pantry sorting
+- Toy box cleanup
+- Bathroom cabinet organization
+- Garage tool sorting
 
-## AI Asset Generation
+**Why effective:** Different themes appeal to different players and create fresh feeling across ad variations.
 
-**AI-Generated Content Allowed**
-- AI-generated characters, intros, and narrative hooks are encouraged
-- "Misleading" narrative hooks like a mom angry about messy toys are encouraged
-- AI generation is acceptable as long as assets match the game vibe
+> **ID:** SE-2026-008 | **Date:** 2026-02-05 | **Category:** Theme Variety | **Source:** raw-files/_Sort express Knowledge.pdf
 
-## Successful Ad References
+**Media:** []
 
-**Top Performing Ads**
-- Ad #99 (Breaking shelves concept)
-- Ad #46 (Dishwasher theme)
-- Ad #109
-- Ad #87
+---
 
-**Playable Triggers**
-- Time-based triggers
-- Click-based triggers (after 3-5 clicks)
-- Interaction-based triggers (after matching 3 objects)
+## Emphasize ASMR satisfaction of clearing
 
-## Target Audience Considerations
+**Visuals SHOULD emphasize the satisfying, calming experience of items clearing and shelves breaking or reorganizing.**
 
-**Demographics**
-- 90% women
-- 35+ years old
-- Similar to Match Factory profile
+ASMR elements:
+- Smooth item animations
+- Satisfying "pop" or "click" sound design (implied)
+- Visual feedback of shelves breaking cleanly
+- Items snapping into organized positions
+- Cascading clear effects
 
-**Player Motivations**
-- Skill/Mastery: Getting better at quickly identifying and sorting items
-- ASMR: The satisfying visual of items clearing and shelves "breaking" or moving
-- Progression: Moving through increasingly complex levels
-- Player Feeling: Smart / Calm
+**Player feeling:** Smart / Calm - the game should feel meditative and rewarding.
 
-## Quality Alignment
+> **ID:** SE-2026-009 | **Date:** 2026-02-05 | **Category:** Satisfaction Type | **Source:** raw-files/_Sort express Knowledge.pdf
 
-**Feedback Focus**
-- Client is highly focused on quality alignment
-- Detailed feedback provided to avoid repetitive errors
-- Playables often sent to fixes, so attention to detail is important
+**Media:** []
+
+---
+
+## Position as casual, fun, organized experience
+
+**Tone SHOULD be Casual / Fun / Organized - approachable puzzle solving, not stressful.**
+
+Tone elements:
+- Bright, cheerful colors
+- Clean, organized aesthetics
+- Positive feedback ("Great!", "Perfect!")
+- No time pressure unless necessary
+- Relaxing background music
+
+**Target audience:** 90% women, 35+ years old (similar to Match Factory profile).
+
+> **ID:** SE-2026-010 | **Date:** 2026-02-05 | **Category:** Tone | **Source:** raw-files/_Sort express Knowledge.pdf
+
+**Media:** []
+
+---
+
+## Show side-on or front-facing shelf view
+
+**Camera SHOULD use side-on or front-facing perspective of shelves, not top-down or isometric.**
+
+Camera positioning:
+- Player looks directly at shelf front
+- Items clearly visible in profile or face-on
+- Easy to see what's on each shelf level
+- Natural organization perspective
+
+**Why:** Matches real-world organizing perspective - how you'd actually view a bookshelf or closet.
+
+> **ID:** SE-2026-011 | **Date:** 2026-02-05 | **Category:** Camera Angle | **Source:** raw-files/_Sort express Knowledge.pdf
+
+**Media:** []
+
+---
+
+## Include power-ups or shelf expansions
+
+**Progression SHOULD feature power-ups or shelf expansion mechanics typical of Goods Sorting genre.**
+
+Power-up examples:
+- Auto-sort button
+- Extra shelf slots
+- Hint system
+- Undo last move
+- Clear specific item type
+
+**Monetization:** In-app purchase focused game, so power-ups create upgrade path.
+
+> **ID:** SE-2026-012 | **Date:** 2026-02-05 | **Category:** Progression | **Source:** raw-files/_Sort express Knowledge.pdf
+
+**Media:** []

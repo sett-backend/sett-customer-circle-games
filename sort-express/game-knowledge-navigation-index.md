@@ -1,7 +1,7 @@
 # Sort Express — Knowledge Navigation Index
 
 > **Purpose:** Help any agent quickly understand what knowledge exists in this folder.
-> **Last Updated:** 2026-02-04
+> **Last Updated:** 2026-02-05
 
 ---
 
@@ -10,63 +10,66 @@
 ```
 sort-express/
 ├── game-knowledge-navigation-index.md  (this file)
-├── production-rules.md                 (game rules and constraints)
-├── preferences.md                      (design preferences)
-├── rejected-patterns.md                (patterns to avoid)
-├── ideation-requirements.md            (exploration criteria)
-├── assets/                             (game assets)
-├── references/                         (timeless artifacts or pointers)
-├── media/                              (screenshots, recordings)
-└── raw-files/                          (source documents)
+├── production-rules.md                 (7 entries)
+├── preferences.md                      (5 entries)
+├── rejected-patterns.md                (3 entries)
+├── ideation-requirements.md            (7 entries)
+└── raw-files/                          (2 files: 1 PDF + 1 DOCX)
 ```
 
----
-
-## Files
-
-| File | Description | Status |
-|------|-------------|--------|
-| `game-knowledge-navigation-index.md` | This file - navigation overview | ✓ Active |
-| `production-rules.md` | Hard constraints causing rejection if violated | ✓ Populated |
-| `preferences.md` | Soft guidance improving quality | ✓ Populated |
-| `rejected-patterns.md` | Failed patterns with reasons to avoid | ✓ Populated |
-| `ideation-requirements.md` | Exploration criteria and concept development | ✓ Populated |
-
-### Knowledge Coverage
-
-**Production Rules** (Hard Constraints)
-- Visual quality standards (high-quality, 3D polished, proportional design)
-- Core match-3 gameplay mechanics
-- Mandatory ad elements (close-up views, dynamic elements)
-- Camera and art direction requirements
-
-**Preferences** (Soft Guidance)
-- Creative approach (classic + unique combination)
-- AI asset generation guidelines
-- Top performing ad references (#99, #46, #109, #87)
-- Target audience considerations (90% women, 35+)
-
-**Rejected Patterns** (Lessons Learned)
-- Restaurant/BBQ theme (tested poorly)
-- Past ideations to vary (closet/shoes, supermarket, laundry, dish sorting)
-- Visual quality issues to avoid
-
-**Ideation Requirements** (Exploration Criteria)
-- Game overview (3D Match/Goods Sorting puzzle)
-- High exploration level encouraged
-- Theme development strategy
-- Competitive differentiation from Goods Sorting genre
+**Total: 22 knowledge entries**
 
 ---
 
-## Folders
+## Table of Contents
 
-| Folder | Description |
-|--------|-------------|
-| `assets/` | Game assets (sprites, UI, backgrounds) |
-| `references/` | Timeless artifacts or pointers to live sources |
-| `media/` | Screenshots, recordings from feedback |
-| `raw-files/` | Raw unprocessed source documents |
+### production-rules.md (7 entries)
+1. Must show close-up item views with 8x3 layouts
+2. Include dynamic elements like breaking or moving shelves
+3. Match 3 identical items to clear them
+4. Items can move between shelves when space available
+5. Use 3D stylized art style exclusively
+6. Lose condition is shelves too full or limits reached
+7. Client requires high-quality visual alignment
+
+### preferences.md (5 entries)
+1. Use diverse concept variety for themes
+2. Emphasize ASMR satisfaction of clearing
+3. Position as casual, fun, organized experience
+4. Show side-on or front-facing shelf view
+5. Include power-ups or shelf expansions
+
+### rejected-patterns.md (3 entries)
+1. Don't use low-quality visuals
+2. Don't make shelves static without dynamics
+3. Don't use 2D flat art style
+
+### ideation-requirements.md (7 entries)
+1. Client encourages AI-generated concepts and hooks
+2. Use "misleading" narrative hooks
+3. Feature "breaking shelves" as signature moment
+4. Dishwasher theme as proven concept
+5. Target 35+ women demographic specifically
+6. Emphasize skill/mastery progression
+7. Reference successful ad examples
+
+---
+
+## Extraction Summary
+
+**Sources:** 
+- `_Sort express Knowledge.pdf` (3 pages)
+- `Sort express guidelines.docx` (binary, not extracted)
+
+**Extracted:** 2026-02-05
+**Target audience:** 90% women, 35+ years old
+**Best ad examples:** #99 (Breaking shelves), #46 (Dishwasher theme)
+
+**Key themes:**
+- 3D goods sorting/organizing game
+- Dynamic shelf mechanics (breaking, moving)
+- ASMR satisfaction and casual tone
+- High client quality standards
 
 ---
 

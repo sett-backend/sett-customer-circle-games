@@ -1,111 +1,133 @@
-# Sort Express — Ideation Requirements
+# Ideation Requirements
 
-> **Purpose:** Exploration criteria and concept development guidelines.
-> **Last Updated:** 2026-02-04
-
-Requirements and guidelines for ideation and concept development for Sort Express. These define how new ideas should be explored and validated.
+Engagement strategies and hooks for Sort Express playable ads.
 
 ---
 
-## Game Overview
+## Client encourages AI-generated concepts and hooks
 
-**Core Identity**
-- Game Name: Sort Express!
-- Genre: Casual Puzzle
-- Sub-Genre / Mechanics: 3D Match / Goods Sorting
-- One-Line Description: A 3D in-app purchase focused sorting game where players organize items on shelves to clear them
+**High exploration level - client actively encourages AI-generated concepts, characters, intros, and "misleading" narrative hooks.**
 
-## Exploration Level
+AI-generated elements allowed:
+- Character designs
+- Intro sequences
+- Narrative hooks (e.g., "Mom angry about messy toys")
+- Thematic concepts
+- Visual styles
 
-**High Exploration Encouraged**
-- Client encourages AI-generated concepts and hooking intros
-- Balance between unique ideation and classic gameplay with theme
-- Diverse themes encouraged (shoe closets, dishwashers, various backgrounds)
+**Why encouraged:** Client wants variety and fresh hooks, not just standard sorting gameplay.
 
-## Theme Development
+> **ID:** SE-2026-016 | **Date:** 2026-02-05 | **Category:** Creative Freedom | **Source:** raw-files/_Sort express Knowledge.pdf
 
-**Variation Strategy**
-- Can variate past ideations (closet/shoes, supermarket, laundry, dish sorting)
-- Must not repeat exact versions of past themes
-- Avoid restaurant/BBQ themes (tested poorly)
+**Media:** []
 
-**Theme Examples to Explore**
-- Items matching on shelves (various contexts)
-- Household organization scenarios
-- Retail/shopping contexts (with variation)
-- Different room/space types
+---
 
-## Visual Requirements
+## Use "misleading" narrative hooks
 
-**Art Style Alignment**
-- 3D look-alike items, rounded and polished
-- Must match the established game style
-- High-quality assets required
-- Proportional design essential
+**Ads CAN use narrative framing like "Mom is angry about messy toys - organize them!" to create emotional hook beyond pure gameplay.**
 
-**AI Generation Guidelines**
-- AI-generated assets allowed if matching game vibe
-- AI-generated characters and intros encouraged
-- "Misleading" narrative hooks acceptable (e.g., mom angry about messy toys)
+Narrative hook examples:
+- Mom upset about messy playroom
+- Kitchen chaos before guests arrive
+- Closet disaster before important event
+- Partner frustrated with disorganization
 
-## Gameplay Mechanics to Consider
+**Purpose:** Creates relatable stakes and motivation beyond abstract puzzle solving.
 
-**Core Sorting Mechanic**
-- Match 2, 3, or up to 5 items depending on concept
-- Items organized on shelves
-- Clear by matching identical objects
+> **ID:** SE-2026-017 | **Date:** 2026-02-05 | **Category:** Narrative Hook | **Source:** raw-files/_Sort express Knowledge.pdf
 
-**Dynamic Elements**
-- Breaking shelves
-- Moving shelves
-- Elements that add "glow" to original gameplay
+**Media:** []
 
-**Progression Elements**
-- Level complexity increases
-- Variety of items expands
-- Map or collection elements potentially
-- Power-ups or shelf expansions
+---
 
-## Ad Creative Requirements
+## Feature "breaking shelves" as signature moment
 
-**Visual Presentation**
-- Close-up item views (e.g., 8x3 layouts)
-- Front-facing/side-on camera angle
-- Items must be clearly visible and identifiable
+**Highlight the breaking shelves mechanic as the standout creative element (Ad #99 best example).**
 
-**Hook Strategies**
-- AI-generated narrative hooks encouraged
-- Time-based, click-based (3-5 clicks), or interaction-based triggers
-- ASMR-satisfying clearing mechanics
+Breaking shelves showcase:
+- Shelves crack and shatter when cleared/full
+- Dramatic visual and sound effect
+- New shelf slides in to replace
+- Creates "wow" moment of destruction
+- Differentiates from static sorting
 
-## Target Audience
+**Hook:** "Watch what happens when you fill the shelf!"
 
-**Demographics**
-- 90% women
-- 35+ years old
-- Similar to Match Factory profile
+> **ID:** SE-2026-018 | **Date:** 2026-02-05 | **Category:** Signature Moment | **Source:** raw-files/_Sort express Knowledge.pdf
 
-**Appeal Factors**
-- Skill/Mastery motivation
-- ASMR satisfaction
-- Progression satisfaction
-- Smart/Calm player feeling
+**Media:** []
 
-## Competitive Context
+---
 
-**Main Competitors**
-- Goods Sorting
-- Goods Puzzle Sort Challenge
-- Goods Sort Matching Puzzle
+## Dishwasher theme as proven concept
 
-**Differentiation**
-- 3D stylized art (unlike competitors)
-- Polished rounded aesthetic
-- In-app purchase focused model
+**Dishwasher loading/organizing is a proven high-performing theme (Ad #46).**
 
-## References & Resources
+Dishwasher concept:
+- Items are dishes, cups, utensils
+- Shelves are dishwasher racks
+- Match 3 same dishes to load properly
+- Relatable domestic task
+- Appeals to target demo (35+ women)
 
-**Marketing Assets**
-- Marketing Assets Drive available
-- Top ads: #109, #46, #87, #99
-- Best examples: Ad #99 (Breaking shelves), Ad #46 (Dishwasher theme)
+**Why it works:** Universal task, tangible real-world connection, satisfying organization.
+
+> **ID:** SE-2026-019 | **Date:** 2026-02-05 | **Category:** Theme Example | **Source:** raw-files/_Sort express Knowledge.pdf
+
+**Media:** []
+
+---
+
+## Target 35+ women demographic specifically
+
+**Creative should appeal to 90% women, 35+ years old audience profile (similar to Match Factory).**
+
+Demographic targeting:
+- Domestic organization themes
+- Calm, satisfying gameplay
+- No childish or immature aesthetics
+- Elegant, clean visuals
+- Relatable scenarios (kitchen, closet, etc.)
+
+**Avoid:** Teen-focused themes, hyper-stylized young aesthetics, aggressive competition.
+
+> **ID:** SE-2026-020 | **Date:** 2026-02-05 | **Category:** Target Audience | **Source:** raw-files/_Sort express Knowledge.pdf
+
+**Media:** []
+
+---
+
+## Emphasize skill/mastery progression
+
+**Show player getting better at quickly identifying and sorting items across increasingly complex levels.**
+
+Skill progression showcase:
+- Level 1: Simple, few item types
+- Level 5: More item variety, faster pace
+- Level 10: Complex multi-shelf puzzles
+- "You're getting better!" messaging
+- Speed run or efficiency metrics
+
+**Motivation:** Mastery and improvement, not just luck.
+
+> **ID:** SE-2026-021 | **Date:** 2026-02-05 | **Category:** Progression Showcase | **Source:** raw-files/_Sort express Knowledge.pdf
+
+**Media:** []
+
+---
+
+## Reference successful ad examples
+
+**Draw inspiration from top-performing ads: #109, #46, #87, #99.**
+
+Best examples:
+- **Ad #99:** Breaking shelves mechanic
+- **Ad #46:** Dishwasher theme
+- **Ad #109, #87:** (Specific elements not detailed but referenced as successful)
+
+**Assets folder:** Marketing Assets Drive contains reference materials.
+
+> **ID:** SE-2026-022 | **Date:** 2026-02-05 | **Category:** References | **Source:** raw-files/_Sort express Knowledge.pdf
+
+**Media:** []
