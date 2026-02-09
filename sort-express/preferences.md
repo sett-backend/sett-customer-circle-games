@@ -20,7 +20,6 @@ Different themes appeal to different players and keep ads feeling fresh across v
 
 > **ID:** SE-2026-009 | **Date:** 2026-02-09 | **Category:** Theme Variety | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3)
 
-**Media:** []
 
 ---
 
@@ -37,7 +36,6 @@ Tone elements:
 
 > **ID:** SE-2026-010 | **Date:** 2026-02-09 | **Category:** Tone | **Source:** raw-files/_Sort express Knowledge.pdf (Section 4, 6)
 
-**Media:** []
 
 ---
 
@@ -55,7 +53,6 @@ Player motivation includes the ASMR-like satisfaction of watching things get org
 
 > **ID:** SE-2026-011 | **Date:** 2026-02-09 | **Category:** Player Motivation | **Source:** raw-files/_Sort express Knowledge.pdf (Section 4)
 
-**Media:** []
 
 ---
 
@@ -72,7 +69,6 @@ Demographic-appropriate design:
 
 > **ID:** SE-2026-012 | **Date:** 2026-02-09 | **Category:** Target Audience | **Source:** raw-files/_Sort express Knowledge.pdf (Section 9)
 
-**Media:** []
 
 ---
 
@@ -89,4 +85,3 @@ Progression elements:
 
 > **ID:** SE-2026-013 | **Date:** 2026-02-09 | **Category:** Progression | **Source:** raw-files/_Sort express Knowledge.pdf (Section 4, 5)
 
-**Media:** []

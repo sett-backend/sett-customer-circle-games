@@ -20,7 +20,6 @@ The client is highly focused on quality alignment. Repetitive quality errors are
 
 > **ID:** SE-2026-014 | **Date:** 2026-02-09 | **Category:** Quality | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3), raw-files/Sort express guidelines.docx
 
-**Media:** []
 
 ---
 
@@ -38,7 +37,6 @@ Always use 3D rendered items and environments with proper depth and lighting.
 
 > **ID:** SE-2026-015 | **Date:** 2026-02-09 | **Category:** Art Style | **Source:** raw-files/_Sort express Knowledge.pdf (Section 6)
 
-**Media:** []
 
 ---
 
@@ -55,7 +53,6 @@ Other food-adjacent themes (like dishwasher loading with dishes) have worked wel
 
 > **ID:** SE-2026-016 | **Date:** 2026-02-09 | **Category:** Failed Theme | **Source:** raw-files/Sort express guidelines.docx
 
-**Media:** []
 
 ---
 
@@ -73,7 +70,6 @@ The partner specifically wants to see unique new ideation alongside classic game
 
 > **ID:** SE-2026-017 | **Date:** 2026-02-09 | **Category:** Theme Repetition | **Source:** raw-files/Sort express guidelines.docx
 
-**Media:** []
 
 ---
 
@@ -93,4 +89,3 @@ What works:
 
 > **ID:** SE-2026-018 | **Date:** 2026-02-09 | **Category:** Dynamic Elements | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3)
 
-**Media:** []

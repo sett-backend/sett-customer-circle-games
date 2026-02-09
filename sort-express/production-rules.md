@@ -18,7 +18,6 @@ The client is highly focused on quality alignment and provides detailed feedback
 
 > **ID:** SE-2026-001 | **Date:** 2026-02-09 | **Category:** Visual Quality | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3, 6), raw-files/Sort express guidelines.docx
 
-**Media:** []
 
 ---
 
@@ -35,7 +34,6 @@ This is specifically called out because playables are often sent back for fixes.
 
 > **ID:** SE-2026-002 | **Date:** 2026-02-09 | **Category:** Visual Quality | **Source:** raw-files/Sort express guidelines.docx
 
-**Media:** []
 
 ---
 
@@ -52,7 +50,6 @@ This is a "Must Have" requirement based on performance testing.
 
 > **ID:** SE-2026-003 | **Date:** 2026-02-09 | **Category:** Layout | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3)
 
-**Media:** []
 
 ---
 
@@ -70,7 +67,6 @@ Static sorting alone is not acceptable. Ad #99 (breaking shelves) is the best re
 
 > **ID:** SE-2026-004 | **Date:** 2026-02-09 | **Category:** Dynamic Elements | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3)
 
-**Media:** []
 
 ---
 
@@ -89,7 +85,6 @@ Lose condition: Shelves become too full to move items, or time/move limits are r
 
 > **ID:** SE-2026-005 | **Date:** 2026-02-09 | **Category:** Core Mechanic | **Source:** raw-files/_Sort express Knowledge.pdf (Section 2, 7), raw-files/Sort express guidelines.docx
 
-**Media:** []
 
 ---
 
@@ -107,7 +102,6 @@ Competitors in the goods sorting genre tend toward 2D. The 3D aesthetic is a del
 
 > **ID:** SE-2026-006 | **Date:** 2026-02-09 | **Category:** Art Direction | **Source:** raw-files/_Sort express Knowledge.pdf (Section 6)
 
-**Media:** []
 
 ---
 
@@ -122,7 +116,6 @@ Camera positioning:
 
 > **ID:** SE-2026-007 | **Date:** 2026-02-09 | **Category:** Camera | **Source:** raw-files/_Sort express Knowledge.pdf (Section 6)
 
-**Media:** []
 
 ---
 
@@ -139,4 +132,3 @@ Choose the trigger type that best fits the specific creative concept.
 
 > **ID:** SE-2026-008 | **Date:** 2026-02-09 | **Category:** Playable Triggers | **Source:** raw-files/_Sort express Knowledge.pdf (Section 7)
 
-**Media:** []

@@ -18,7 +18,6 @@ The client wants variety and fresh creative directions, not just standard sortin
 
 > **ID:** SE-2026-019 | **Date:** 2026-02-09 | **Category:** Creative Freedom | **Source:** raw-files/_Sort express Knowledge.pdf (Section 9), raw-files/Sort express guidelines.docx
 
-**Media:** []
 
 ---
 
@@ -36,7 +35,6 @@ These create relatable motivation for the target audience (35+ women) and drive 
 
 > **ID:** SE-2026-020 | **Date:** 2026-02-09 | **Category:** Narrative Hooks | **Source:** raw-files/_Sort express Knowledge.pdf (Section 9)
 
-**Media:** []
 
 ---
 
@@ -54,7 +52,6 @@ This is the signature mechanic that sets Sort Express apart in ads.
 
 > **ID:** SE-2026-021 | **Date:** 2026-02-09 | **Category:** Signature Moment | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3, 8)
 
-**Media:** []
 
 ---
 
@@ -70,7 +67,6 @@ Do not only deliver one type. The partner expects both creative exploration and 
 
 > **ID:** SE-2026-022 | **Date:** 2026-02-09 | **Category:** Creative Direction | **Source:** raw-files/Sort express guidelines.docx
 
-**Media:** []
 
 ---
 
@@ -88,7 +84,6 @@ This theme works because it connects sorting mechanics to a universal real-world
 
 > **ID:** SE-2026-023 | **Date:** 2026-02-09 | **Category:** Proven Theme | **Source:** raw-files/_Sort express Knowledge.pdf (Section 8)
 
-**Media:** []
 
 ---
 
@@ -106,7 +101,6 @@ Marketing assets are available in the partner's Marketing Assets Drive.
 
 > **ID:** SE-2026-024 | **Date:** 2026-02-09 | **Category:** References | **Source:** raw-files/_Sort express Knowledge.pdf (Section 8)
 
-**Media:** []
 
 ---
 
@@ -122,4 +116,3 @@ Sort Express differentiates from these competitors through:
 
 > **ID:** SE-2026-025 | **Date:** 2026-02-09 | **Category:** Competitive Landscape | **Source:** raw-files/_Sort express Knowledge.pdf (Section 9)
 
-**Media:** []
