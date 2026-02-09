@@ -1,133 +1,142 @@
 # Production Rules
 
-Hard constraints for Sort Express playable ads.
+Hard constraints for Sort Express playable ads. Violating these will cause rejection.
 
 ---
 
-## Must show close-up item views with 8x3 layouts
+## High-Quality 3D Polished Items Required
 
-**Gameplay ads MUST display in-game items in close-up view, specifically 8x3 shelf layouts, as this performs significantly better.**
+**All items and assets must be high quality with a 3D look-alike, rounded, and very polished appearance that matches the game's visual style.**
+
+Quality standards for every asset:
+- Items must look 3D-rendered with rounded, polished surfaces
+- Textures should be crisp and clean with proper lighting and shadows
+- AI generation is allowed but items must match the visual vibe of the original gameplay
+- No blurry textures, rough models, or visual glitches
+
+The client is highly focused on quality alignment and provides detailed feedback to avoid repetitive errors. Low-quality visuals are explicitly listed as a "Must NOT Have" and will cause rejection.
+
+> **ID:** SE-2026-001 | **Date:** 2026-02-09 | **Category:** Visual Quality | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3, 6), raw-files/Sort express guidelines.docx
+
+**Media:** []
+
+---
+
+## Assets Must Be Proportional to the Scene
+
+**All items, characters, and assets must be proportional to the rest of the scene to avoid frequent playable fixes.**
+
+Proportion guidelines:
+- Items should be sized relative to shelves and environment consistently
+- Characters (if present) should be scaled realistically against objects
+- No oversized or undersized elements that break visual coherence
+
+This is specifically called out because playables are often sent back for fixes. Maintaining proper proportions reduces the fix cycle.
+
+> **ID:** SE-2026-002 | **Date:** 2026-02-09 | **Category:** Visual Quality | **Source:** raw-files/Sort express guidelines.docx
+
+**Media:** []
+
+---
+
+## Close-Up Item Views with 8x3 Layouts Required
+
+**Gameplay ads must show in-game items in close-up view using 8x3 shelf layouts for stronger ad performance.**
 
 Layout requirements:
-- 8 items wide × 3 items tall = 24 visible items
-- Close-up camera angle showing item details clearly
-- Items recognizable at a glance (coffee cups, juice bottles, etc.)
-- Not zoomed out wide view
+- 8 items across by 3 rows visible
+- Camera close enough that individual items (coffee cups, juice bottles, etc.) are recognizable at a glance
+- Not a zoomed-out wide view where items become small
 
-**Why critical:** Client testing shows close-up 8x3 layouts drive stronger performance metrics.
+This is a "Must Have" requirement based on performance testing.
 
-> **ID:** SE-2026-001 | **Date:** 2026-02-05 | **Category:** Layout | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-003 | **Date:** 2026-02-09 | **Category:** Layout | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3)
 
 **Media:** []
 
 ---
 
-## Include dynamic elements like breaking or moving shelves
+## Dynamic Shelf Elements Required
 
-**Playables MUST include dynamic shelf mechanics (breaking, moving, expanding) to add "glow" beyond basic sorting.**
+**Playables must include dynamic shelf mechanics such as breaking shelves or moving shelves to add visual excitement beyond basic sorting.**
 
 Dynamic elements to include:
-- Shelves breaking when full/cleared
-- Shelves sliding or rotating
-- Shelves expanding to add capacity
-- Visual destruction/rebuilding effects
+- Shelves breaking when cleared or overloaded
+- Shelves sliding, rotating, or expanding
+- Destruction and rebuilding visual effects
+- Any mechanic that adds "glow" to the original gameplay
 
-**Why important:** Static sorting alone is too simple. Dynamic elements create surprise and visual interest.
+Static sorting alone is not acceptable. Ad #99 (breaking shelves) is the best reference for this requirement.
 
-**Reference:** Ad #99 showcases breaking shelves as best creative example.
-
-> **ID:** SE-2026-002 | **Date:** 2026-02-05 | **Category:** Dynamic Elements | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-004 | **Date:** 2026-02-09 | **Category:** Dynamic Elements | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3)
 
 **Media:** []
 
 ---
 
-## Match 3 identical items to clear them
+## Core Mechanic Is Matching Identical Items on Shelves
 
-**The core mechanic MUST be matching 3 identical objects on shelves to remove them from play.**
+**The primary action is sorting and matching identical 3D items on shelves. Matching clears them from play.**
 
-Matching rules:
-- Exactly 3 of same item type (e.g., 3 coffee cups)
-- Items clear/disappear when matched
-- Creates space for more items
-- Tactile satisfaction of clearing
+Core rules:
+- Match 3 identical objects as the default (e.g., 3 coffee cups)
+- Gameplay can involve matching 2, 3, or up to 5 items depending on the specific ideation
+- Matched items clear and disappear from the shelf
+- Items can be moved between shelves if there is available space
 
-**Win condition:** All items on shelves successfully matched and cleared.
+Win condition: All items on shelves are successfully matched and cleared.
+Lose condition: Shelves become too full to move items, or time/move limits are reached.
 
-> **ID:** SE-2026-003 | **Date:** 2026-02-05 | **Category:** Core Mechanic | **Source:** raw-files/_Sort express Knowledge.pdf
-
-**Media:** []
-
----
-
-## Items can move between shelves when space available
-
-**Players MUST be able to move items from one shelf to another if there is available space.**
-
-Movement mechanics:
-- Drag-and-drop or tap-to-move
-- Only moves if target shelf has room
-- Enables strategic organization
-- Part of puzzle-solving strategy
-
-**Purpose:** Creates strategic depth beyond just matching on current shelf.
-
-> **ID:** SE-2026-004 | **Date:** 2026-02-05 | **Category:** Movement | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-005 | **Date:** 2026-02-09 | **Category:** Core Mechanic | **Source:** raw-files/_Sort express Knowledge.pdf (Section 2, 7), raw-files/Sort express guidelines.docx
 
 **Media:** []
 
 ---
 
-## Use 3D stylized art style exclusively
+## 3D Stylized Art Style Required
 
-**Sort Express MUST use 3D stylized visuals, specifically positioned as a "3D game" unlike direct 2D competitors.**
+**Sort Express must use 3D stylized visuals. It is specifically positioned as a "3D game" to differentiate from direct 2D competitors.**
 
 Visual requirements:
-- 3D rendered items (not flat 2D sprites)
+- 3D rendered items with depth, shadows, and lighting (not flat 2D sprites)
 - Stylized art style (not photorealistic)
-- Items have depth, shadows, lighting
-- Shelves and environment in 3D
-- Side-on or front-facing camera view
+- Shelves and environment rendered in 3D
+- Side-on or front-facing camera angle showing shelves
 
-**Competitive positioning:** The 3D aesthetic is a differentiator from 2D goods sorting games.
+Competitors in the goods sorting genre tend toward 2D. The 3D aesthetic is a deliberate differentiator.
 
-> **ID:** SE-2026-005 | **Date:** 2026-02-05 | **Category:** Art Direction | **Source:** raw-files/_Sort express Knowledge.pdf
-
-**Media:** []
-
----
-
-## Lose condition is shelves too full or limits reached
-
-**Failure MUST occur when shelves become too full to move items OR time/move limits are exceeded.**
-
-Lose scenarios:
-- Shelves completely full, no space to reorganize
-- Timer runs out (if time-based trigger)
-- Move count exhausted (if move-limited)
-- Cannot make any more matches
-
-**Typical for genre:** Standard goods sorting failure state.
-
-> **ID:** SE-2026-006 | **Date:** 2026-02-05 | **Category:** Lose Condition | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-006 | **Date:** 2026-02-09 | **Category:** Art Direction | **Source:** raw-files/_Sort express Knowledge.pdf (Section 6)
 
 **Media:** []
 
 ---
 
-## Client requires high-quality visual alignment
+## Side-On or Front-Facing Camera View of Shelves
 
-**All visuals MUST meet high quality standards. The client is extremely focused on quality alignment and provides detailed feedback to avoid repetitive errors.**
+**Camera must use a side-on or front-facing perspective showing the shelves, not top-down or isometric.**
 
-Quality requirements:
-- Clean, polished 3D models
-- Proper lighting and shadows
-- Crisp textures
-- Aligned UI elements
-- No visual glitches or artifacts
+Camera positioning:
+- Player looks directly at the shelf from the front or side
+- Items clearly visible and easy to identify on each shelf level
+- Matches a real-world organizing perspective (how you would actually view a bookshelf or closet)
 
-**Critical:** Low-quality visuals are explicitly listed as "Must NOT Have" and will cause rejection.
+> **ID:** SE-2026-007 | **Date:** 2026-02-09 | **Category:** Camera | **Source:** raw-files/_Sort express Knowledge.pdf (Section 6)
 
-> **ID:** SE-2026-007 | **Date:** 2026-02-05 | **Category:** Quality Standard | **Source:** raw-files/_Sort express Knowledge.pdf
+**Media:** []
+
+---
+
+## Playable Trigger Types
+
+**Playable triggers for the end card must use time-based, click-based (after 3-5 clicks), or interaction-based (after matching 3 objects) approaches.**
+
+Supported trigger types:
+- **Time-based:** End card appears after a set duration
+- **Click-based:** End card appears after 3 to 5 player clicks/taps
+- **Interaction-based:** End card appears after the player successfully matches 3 objects
+
+Choose the trigger type that best fits the specific creative concept.
+
+> **ID:** SE-2026-008 | **Date:** 2026-02-09 | **Category:** Playable Triggers | **Source:** raw-files/_Sort express Knowledge.pdf (Section 7)
 
 **Media:** []

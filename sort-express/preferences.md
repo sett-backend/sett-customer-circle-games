@@ -1,98 +1,92 @@
 # Preferences
 
-Creative preferences for Sort Express playable ads.
+Creative preferences and soft constraints for Sort Express playable ads.
 
 ---
 
-## Use diverse concept variety for themes
+## Use Diverse Themes Across Concepts
 
-**Ads SHOULD explore diverse thematic settings like shoe closets, dishwashers, kitchen cabinets, toy boxes, and various backgrounds.**
+**Ads should explore diverse thematic settings beyond standard shelf sorting, such as shoe closets, dishwashers, kitchen cabinets, and other organizational scenarios.**
 
 Theme variety examples:
 - Shoe closet organization
-- Dishwasher loading (Ad #46 best example)
+- Dishwasher loading (Ad #46 is a proven high performer)
 - Kitchen pantry sorting
-- Toy box cleanup
-- Bathroom cabinet organization
-- Garage tool sorting
+- Laundry sorting
+- Supermarket shelves
+- Any relatable domestic organization scenario
 
-**Why effective:** Different themes appeal to different players and create fresh feeling across ad variations.
+Different themes appeal to different players and keep ads feeling fresh across variations. This is listed as a "Must Have" for concept variety.
 
-> **ID:** SE-2026-008 | **Date:** 2026-02-05 | **Category:** Theme Variety | **Source:** raw-files/_Sort express Knowledge.pdf
-
-**Media:** []
-
----
-
-## Emphasize ASMR satisfaction of clearing
-
-**Visuals SHOULD emphasize the satisfying, calming experience of items clearing and shelves breaking or reorganizing.**
-
-ASMR elements:
-- Smooth item animations
-- Satisfying "pop" or "click" sound design (implied)
-- Visual feedback of shelves breaking cleanly
-- Items snapping into organized positions
-- Cascading clear effects
-
-**Player feeling:** Smart / Calm - the game should feel meditative and rewarding.
-
-> **ID:** SE-2026-009 | **Date:** 2026-02-05 | **Category:** Satisfaction Type | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-009 | **Date:** 2026-02-09 | **Category:** Theme Variety | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3)
 
 **Media:** []
 
 ---
 
-## Position as casual, fun, organized experience
+## Casual, Fun, Organized Tone
 
-**Tone SHOULD be Casual / Fun / Organized - approachable puzzle solving, not stressful.**
+**The overall tone should be casual, fun, and organized. The experience should feel like approachable puzzle solving, not stressful or competitive.**
 
 Tone elements:
 - Bright, cheerful colors
 - Clean, organized aesthetics
-- Positive feedback ("Great!", "Perfect!")
-- No time pressure unless necessary
-- Relaxing background music
+- Positive feedback messaging
+- Relaxing and satisfying rather than high-pressure
+- Target player feeling: Smart and Calm
 
-**Target audience:** 90% women, 35+ years old (similar to Match Factory profile).
-
-> **ID:** SE-2026-010 | **Date:** 2026-02-05 | **Category:** Tone | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-010 | **Date:** 2026-02-09 | **Category:** Tone | **Source:** raw-files/_Sort express Knowledge.pdf (Section 4, 6)
 
 **Media:** []
 
 ---
 
-## Show side-on or front-facing shelf view
+## Emphasize ASMR Satisfaction of Clearing Items
 
-**Camera SHOULD use side-on or front-facing perspective of shelves, not top-down or isometric.**
+**Visuals should lean into the satisfying, calming experience of items clearing from shelves and shelves breaking or reorganizing.**
 
-Camera positioning:
-- Player looks directly at shelf front
-- Items clearly visible in profile or face-on
-- Easy to see what's on each shelf level
-- Natural organization perspective
+ASMR-style elements to emphasize:
+- Smooth item animations when sorting and clearing
+- Visual satisfaction of shelves breaking cleanly
+- Items snapping into organized positions
+- Cascading clear effects when multiple matches happen
 
-**Why:** Matches real-world organizing perspective - how you'd actually view a bookshelf or closet.
+Player motivation includes the ASMR-like satisfaction of watching things get organized and cleared.
 
-> **ID:** SE-2026-011 | **Date:** 2026-02-05 | **Category:** Camera Angle | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-011 | **Date:** 2026-02-09 | **Category:** Player Motivation | **Source:** raw-files/_Sort express Knowledge.pdf (Section 4)
 
 **Media:** []
 
 ---
 
-## Include power-ups or shelf expansions
+## Target 35+ Women as Primary Audience
 
-**Progression SHOULD feature power-ups or shelf expansion mechanics typical of Goods Sorting genre.**
+**Creative should appeal to a 90% women, 35+ years old audience profile, similar to Match Factory's demographic.**
 
-Power-up examples:
-- Auto-sort button
-- Extra shelf slots
-- Hint system
-- Undo last move
-- Clear specific item type
+Demographic-appropriate design:
+- Domestic organization themes (kitchen, closet, bathroom)
+- Calm, satisfying gameplay that feels rewarding
+- Elegant, clean visuals without childish aesthetics
+- Relatable real-world scenarios
+- Avoid teen-focused themes, hyper-stylized young aesthetics, or aggressive competition
 
-**Monetization:** In-app purchase focused game, so power-ups create upgrade path.
+> **ID:** SE-2026-012 | **Date:** 2026-02-09 | **Category:** Target Audience | **Source:** raw-files/_Sort express Knowledge.pdf (Section 9)
 
-> **ID:** SE-2026-012 | **Date:** 2026-02-05 | **Category:** Progression | **Source:** raw-files/_Sort express Knowledge.pdf
+**Media:** []
+
+---
+
+## Show Progression Through Increasing Complexity
+
+**Ads should showcase the player getting better at sorting, with levels growing in complexity through more item variety and multi-shelf puzzles.**
+
+Progression elements:
+- Level complexity increases over time
+- Greater variety of items in later levels
+- Potentially map or collection elements
+- Power-ups or shelf expansions as upgrade mechanics (typical for the goods sorting genre)
+- Skill/mastery motivation: getting faster and more efficient at identifying and sorting
+
+> **ID:** SE-2026-013 | **Date:** 2026-02-09 | **Category:** Progression | **Source:** raw-files/_Sort express Knowledge.pdf (Section 4, 5)
 
 **Media:** []

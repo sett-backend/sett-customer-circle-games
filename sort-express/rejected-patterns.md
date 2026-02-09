@@ -1,62 +1,96 @@
 # Rejected Patterns
 
-Patterns to avoid for Sort Express.
+Patterns that have failed or will cause rejection for Sort Express.
 
 ---
 
-## Don't use low-quality visuals
+## No Low-Quality or Unpolished Visuals
 
-**Never deliver ads with low-quality visual alignment, poor modeling, or sloppy presentation. Client will reject and provide detailed feedback.**
+**Never deliver ads with low-quality visuals, poor 3D modeling, or sloppy presentation. The client will reject and provide detailed feedback about every quality issue.**
 
-Quality failures:
-- ❌ Blurry textures
-- ❌ Misaligned UI elements
-- ❌ Poor lighting/shadows
-- ❌ Rough 3D models
-- ❌ Visual glitches
+Specific quality failures to avoid:
+- Blurry or muddy textures
+- Misaligned UI elements
+- Poor lighting or missing shadows
+- Rough or unfinished 3D models
+- Visual glitches or artifacts
+- Items that don't look polished, rounded, and 3D
 
-**Why critical:** Client is "highly focused on quality alignment" and will catch errors. Avoid repetitive mistakes.
+The client is highly focused on quality alignment. Repetitive quality errors are particularly problematic.
 
-> **ID:** SE-2026-013 | **Date:** 2026-02-05 | **Category:** Quality | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-014 | **Date:** 2026-02-09 | **Category:** Quality | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3), raw-files/Sort express guidelines.docx
 
 **Media:** []
 
 ---
 
-## Don't make shelves static without dynamics
+## No 2D or Flat Art Style
 
-**Avoid purely static shelf sorting. Must include breaking, moving, or expanding mechanics.**
+**Never use 2D or flat art for Sort Express. The game is specifically positioned as a "3D game" to differentiate from 2D competitors in the goods sorting genre.**
 
-**Wrong approach:**
-- ❌ Items just sit on shelves unchanging
-- ❌ No shelf destruction or transformation
-- ❌ Purely abstract sorting without visual payoff
+What to avoid:
+- Flat 2D sprites or icons
+- Cartoon vector art without depth
+- Paper cutout or flat illustration style
+- Any visual treatment that lacks 3D depth, shadows, and lighting
 
-**Correct approach:**
-- ✅ Shelves break when cleared (Ad #99)
-- ✅ Shelves slide or rotate
-- ✅ Dynamic visual elements add excitement
+Always use 3D rendered items and environments with proper depth and lighting.
 
-> **ID:** SE-2026-014 | **Date:** 2026-02-05 | **Category:** Dynamics | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-015 | **Date:** 2026-02-09 | **Category:** Art Style | **Source:** raw-files/_Sort express Knowledge.pdf (Section 6)
 
 **Media:** []
 
 ---
 
-## Don't use 2D flat art style
+## Restaurant / BBQ Theme Failed
 
-**Never use 2D/flat art. Sort Express is positioned as a "3D game" specifically unlike 2D competitors.**
+**The partner tried a restaurant/BBQ type concept in the past and it did not perform well. Avoid this theme direction.**
 
-**Wrong:**
-- ❌ Flat 2D sprites
-- ❌ Cartoon vector art
-- ❌ Paper cutout style
+Do not use:
+- Restaurant kitchen sorting
+- BBQ food organization
+- Grill or cooking-themed sorting concepts
 
-**Correct:**
-- ✅ 3D rendered items with depth
-- ✅ Lighting and shadows
-- ✅ 3D shelves and environments
+Other food-adjacent themes (like dishwasher loading with dishes) have worked well, so the issue was specifically with the restaurant/BBQ framing rather than food items in general.
 
-> **ID:** SE-2026-015 | **Date:** 2026-02-05 | **Category:** Art Style | **Source:** raw-files/_Sort express Knowledge.pdf
+> **ID:** SE-2026-016 | **Date:** 2026-02-09 | **Category:** Failed Theme | **Source:** raw-files/Sort express guidelines.docx
+
+**Media:** []
+
+---
+
+## Do Not Repeat Past Themes Exactly
+
+**Past ideation themes should not be repeated as-is. Variations are allowed but exact repeats are not wanted.**
+
+Themes already used (variate, do not copy):
+- Closet with shoes matching
+- Supermarket shelves
+- Laundry sorting
+- Dishwasher sorting
+
+The partner specifically wants to see unique new ideation alongside classic gameplay with theme variations. Building on these themes is fine, but doing the same concept again is not.
+
+> **ID:** SE-2026-017 | **Date:** 2026-02-09 | **Category:** Theme Repetition | **Source:** raw-files/Sort express guidelines.docx
+
+**Media:** []
+
+---
+
+## No Static Shelves Without Dynamic Elements
+
+**Avoid purely static shelf sorting without any breaking, moving, or transformation mechanics. Static shelves lack the visual excitement needed.**
+
+What fails:
+- Items just sitting on shelves without any dynamic events
+- No shelf destruction, movement, or transformation
+- Purely abstract sorting without visual payoff
+
+What works:
+- Shelves breaking when cleared (Ad #99 is the reference)
+- Shelves sliding, rotating, or expanding
+- Dynamic visual elements that create surprise and engagement
+
+> **ID:** SE-2026-018 | **Date:** 2026-02-09 | **Category:** Dynamic Elements | **Source:** raw-files/_Sort express Knowledge.pdf (Section 3)
 
 **Media:** []

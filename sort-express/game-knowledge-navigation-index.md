@@ -1,7 +1,7 @@
-# Sort Express — Knowledge Navigation Index
+# Sort Express -- Knowledge Navigation Index
 
 > **Purpose:** Help any agent quickly understand what knowledge exists in this folder.
-> **Last Updated:** 2026-02-05
+> **Last Updated:** 2026-02-09
 
 ---
 
@@ -10,67 +10,82 @@
 ```
 sort-express/
 ├── game-knowledge-navigation-index.md  (this file)
-├── production-rules.md                 (7 entries)
+├── production-rules.md                 (8 entries)
 ├── preferences.md                      (5 entries)
-├── rejected-patterns.md                (3 entries)
+├── rejected-patterns.md                (5 entries)
 ├── ideation-requirements.md            (7 entries)
-└── raw-files/                          (2 files: 1 PDF + 1 DOCX)
+├── references/
+│   └── game-requirements.md
+├── raw-files/                          (2 files: 1 PDF + 1 DOCX)
+│   ├── _Sort express Knowledge.pdf
+│   └── Sort express guidelines.docx
+├── assets/                             (empty)
+└── media/                              (empty)
 ```
 
-**Total: 22 knowledge entries**
+**Total: 25 knowledge entries**
 
 ---
 
 ## Table of Contents
 
-### production-rules.md (7 entries)
-1. Must show close-up item views with 8x3 layouts
-2. Include dynamic elements like breaking or moving shelves
-3. Match 3 identical items to clear them
-4. Items can move between shelves when space available
-5. Use 3D stylized art style exclusively
-6. Lose condition is shelves too full or limits reached
-7. Client requires high-quality visual alignment
+### production-rules.md (8 entries)
+1. High-Quality 3D Polished Items Required
+2. Assets Must Be Proportional to the Scene
+3. Close-Up Item Views with 8x3 Layouts Required
+4. Dynamic Shelf Elements Required
+5. Core Mechanic Is Matching Identical Items on Shelves
+6. 3D Stylized Art Style Required
+7. Side-On or Front-Facing Camera View of Shelves
+8. Playable Trigger Types
 
 ### preferences.md (5 entries)
-1. Use diverse concept variety for themes
-2. Emphasize ASMR satisfaction of clearing
-3. Position as casual, fun, organized experience
-4. Show side-on or front-facing shelf view
-5. Include power-ups or shelf expansions
+1. Use Diverse Themes Across Concepts
+2. Casual, Fun, Organized Tone
+3. Emphasize ASMR Satisfaction of Clearing Items
+4. Target 35+ Women as Primary Audience
+5. Show Progression Through Increasing Complexity
 
-### rejected-patterns.md (3 entries)
-1. Don't use low-quality visuals
-2. Don't make shelves static without dynamics
-3. Don't use 2D flat art style
+### rejected-patterns.md (5 entries)
+1. No Low-Quality or Unpolished Visuals
+2. No 2D or Flat Art Style
+3. Restaurant / BBQ Theme Failed
+4. Do Not Repeat Past Themes Exactly
+5. No Static Shelves Without Dynamic Elements
 
 ### ideation-requirements.md (7 entries)
-1. Client encourages AI-generated concepts and hooks
-2. Use "misleading" narrative hooks
-3. Feature "breaking shelves" as signature moment
-4. Dishwasher theme as proven concept
-5. Target 35+ women demographic specifically
-6. Emphasize skill/mastery progression
-7. Reference successful ad examples
+1. AI-Generated Assets and Concepts Are Encouraged
+2. Use Misleading Narrative Hooks to Create Emotional Engagement
+3. Feature Breaking Shelves as the Signature Moment
+4. Deliver Both Unique Ideation and Classic Gameplay with Theme
+5. Proven Theme: Dishwasher Loading
+6. Top Performing Ad References
+7. Competitors to Study
 
 ---
 
 ## Extraction Summary
 
-**Sources:** 
-- `_Sort express Knowledge.pdf` (3 pages)
-- `Sort express guidelines.docx` (binary, not extracted)
+**Sources:**
+- `raw-files/_Sort express Knowledge.pdf` (3 pages -- game knowledge document covering basics, core gameplay, rules, motivation, progression, visual direction, ideation directions)
+- `raw-files/Sort express guidelines.docx` (partner requirements including quality standards, past themes, fix avoidance guidance)
 
-**Extracted:** 2026-02-05
+**Also available:**
+- `references/game-requirements.md` (structured production rules summary)
+
+**Extracted:** 2026-02-09
+**Game:** Sort Express! (Casual Puzzle / 3D Match / Goods Sorting)
 **Target audience:** 90% women, 35+ years old
-**Best ad examples:** #99 (Breaking shelves), #46 (Dishwasher theme)
+**Best ad references:** #99 (Breaking shelves), #46 (Dishwasher theme), #109, #87
 
 **Key themes:**
-- 3D goods sorting/organizing game
-- Dynamic shelf mechanics (breaking, moving)
-- ASMR satisfaction and casual tone
-- High client quality standards
+- 3D goods sorting/organizing game positioned against 2D competitors
+- Dynamic shelf mechanics (breaking, moving) as signature differentiator
+- High quality bar with strict visual polish requirements
+- ASMR satisfaction and casual/calm tone
+- AI-generated concepts and misleading narrative hooks encouraged
+- Both unique ideation and classic gameplay with themes expected
 
 ---
 
-*Knowledge base maintained using game-knowledge-creator skill workflow*
+*Knowledge base maintained using customer-knowledge skill workflow*
