@@ -1,0 +1,43 @@
+name: Delivery Contracts
+
+# Every delivery-contract.yml in this repo must be valid, and must belong to the game directory it
+# sits in. The checker lives in sett-agents/skills/customer-delivery-rules alongside the skill that
+# documents it; this file only calls it.
+#
+# COPY THIS FILE to .github/workflows/delivery-contracts.yml in a sett-customer-* repo. Nothing to
+# edit except `require_contract` below.
+#
+# DERIVED FILE. The interface it calls is defined in sett-infra-pipelines,
+# `.github/workflows/validate-delivery-contracts.yml` — that file is the authority for what `with:`
+# and `secrets:` may contain, and it carries a CI guard
+# (`scripts/check_workflow_call_compat.py`) that fails a PR adding a required input or renaming one,
+# because that would break every caller at once. So this template cannot silently fall behind on the
+# breaking changes; it can still fall behind on a NEW OPTIONAL input worth passing. If you add one
+# there, add it here.
+#
+# `require_contract` decides whether a game with a production-rules.md but NO delivery-contract.yml
+# fails the build.
+#   false  — the repo still has games to convert. An INVALID contract still fails; a MISSING one is
+#            reported and tolerated. Start here for any repo with unconverted games, otherwise the
+#            check is red on day one and everyone learns to ignore it.
+#   true   — every game in this repo has a contract. Now the check also does the second half of its
+#            job: a NEW game landing here without one fails the build, which is what stops the next
+#            100 games from repeating the position we are digging out of.
+#
+# CI_TOKEN resolves at the org level — verified in a live run 2026-08-31 — so no per-repo secret
+# setup is needed.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  contracts:
+    permissions:
+      contents: read
+    uses: sett-backend/sett-infra-pipelines/.github/workflows/validate-delivery-contracts.yml@main
+    with:
+      require_contract: false   # flip to true once every game here has a contract
+    secrets:
+      CI_TOKEN: ${{ secrets.CI_TOKEN }}
